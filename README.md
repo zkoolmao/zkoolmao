@@ -1,6 +1,6 @@
 hi 👋
 ---
-i mostly shitpost on this one, you won't find anything advanced just random shit that people actually sell (💀)
+i mostly shitpost on github, you won't find anything advanced just random shit that people actually sell (💀)
 ---
 recent stuff or stuff that actually turned out good:
 - pg assistant | simple tool that helps you with password guessing roblox accounts (<a href="https://github.com/zkoolmao/Roblox-PG-Assistant" target="_blank">github</a>)
