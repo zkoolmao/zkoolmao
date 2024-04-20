@@ -1,16 +1,17 @@
-### Hi there 👋
-
-<!--
-**zkoolmao/zkoolmao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+hi 👋
+---
+i mostly shitpost on this one, you won't find anything advanced just random shit that people actually sell (💀)
+---
+recent stuff or stuff that actually turned out good:
+- pg assistant | simple tool that helps you with password guessing roblox accounts (<a href="https://github.com/zkoolmao/Roblox-PG-Assistant" target="_blank">github</a>)
+- ad scraper | a tool that scrapes roblox ads and sends to a webhook (<a href="https://github.com/zkoolmao/Roblox-Ad-Scraper" target="_blank">github</a>)
+- discord status rotator | changes your discord status, useful for ads (<a href="https://github.com/zkoolmao/Discord-Status-Rotator" target="_blank">github</a>)
+---
+socials:
+- discord: zfks
+- replit (skid!!): ripzkoo
+- other: e-z.bio/sea
+---
+<a href="https://d-z.bio/sea">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=zkoolmao&count_private=true&show_icons=true&theme=dracula&hide_border=true"/>
+</a>
