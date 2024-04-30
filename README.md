@@ -9,7 +9,7 @@ recent stuff or stuff that actually turned out good:
 ---
 socials:
 - discord: zkoolmao.
-- replit (skid!!!): ripzkoo
+- replit (skid!!!!): ripzkoo
 - other: e-z.bio/sea
 ---
 <a href="https://e-z.bio/sea">
