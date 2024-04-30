@@ -12,6 +12,6 @@ socials:
 - replit (skid!!!): ripzkoo
 - other: e-z.bio/sea
 ---
-<a href="https://d-z.bio/sea">
+<a href="https://e-z.bio/sea">
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=zkoolmao&count_private=true&show_icons=true&theme=dracula&hide_border=true"/>
 </a>
