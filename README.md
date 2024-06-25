@@ -8,7 +8,7 @@ recent stuff or stuff that actually turned out good:
 - discord status rotator | changes your discord status, useful for ads (<a href="https://github.com/zkoolmao/Discord-Status-Rotator" target="_blank">github</a>)
 ---
 socials:
-- discord: zfks
+- discord: 3___
 - replit (skid!!!!): ripzkoo
 - other: e-z.bio/up
 ---
